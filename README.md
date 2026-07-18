@@ -1,5 +1,7 @@
 # Learning-pthon-
 this repository show is journey of learning python.
 today i have learn 
-/introduction to python
+introduction to python
+
+
 introduction to jupyter notebook
