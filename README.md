@@ -7,3 +7,19 @@ today i have learn
 
 
 #getting started with jupyter 
+
+
+#Format string in python
+* string interpolation(f string)
+* str.format()
+* % Operator
+
+
+#string
+* what are strings
+* indexing
+* negative indexing
+* slicing
+* stride
+* concatenate string
+
