@@ -22,7 +22,9 @@ today i have learn
 * slicing
 * stride
 * concatenate string
-* string manipulation
+* string manipulation operration
+* escape sequence
+* 
 
   
 
